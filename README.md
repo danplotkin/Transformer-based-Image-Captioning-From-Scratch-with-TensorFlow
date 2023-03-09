@@ -1,7 +1,7 @@
 # Transformer-Based-Image-Captioning-From-Scratch-with-TensorFlow
 
-When it comes to image captioning, it has become increasingly popular to use pre-trained transformers such as BERT and GPT-2. These models are highly effective at generating text based on input images, and have been used in a wide range of applications, from creating captions for social media posts to generating product descriptions for online retailers.
+When it comes to image captioning, it has become increasingly popular to use pre-trained transformers such as BERT and GPT-2. They're incredibly effective at generating text based on input images, and have found use in a variety of applications - from creating captions for social media posts to generating product descriptions for online retailers.
 
-In this project, I will demonstrate how to build an image captioner transformer using TensorFlow from scratch. This project will provide a detailed guide on how to design and implement a transformer architecture for image captioning, including how to preprocess the image and text data, train the model, and evaluate its performance. I will be using the [Flickr 8K Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k) for this project.
+In this project, I'm going to show you how to create your very own image captioner transformer from scratch using TensorFlow. I'll guide you through every step of the process - from designing and implementing the transformer architecture for image captioning, to preprocessing the image and text data, training the model, and evaluating its performance. For this project, we'll be using the [Flickr 8K Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k) to train our model.
 
 [Link to Notebook](https://github.com/danplotkin/Transformer-based-Image-Captioning-From-Scratch-with-TensorFlow/blob/main/Image%20Captioning.ipynb)
