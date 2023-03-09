@@ -1,4 +1,4 @@
-# Transformer-based-Image-Captioning-From-Scratch-with-TensorFlow
+# Transformer-Based-Image-Captioning-From-Scratch-with-TensorFlow
 
 When it comes to image captioning, it has become increasingly popular to use pre-trained transformers such as BERT and GPT-2. These models are highly effective at generating text based on input images, and have been used in a wide range of applications, from creating captions for social media posts to generating product descriptions for online retailers.
 
