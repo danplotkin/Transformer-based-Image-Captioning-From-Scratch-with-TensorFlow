@@ -10,4 +10,4 @@ Using the link mentioned above, download the caption.txt and Images folder and p
 
 ### Source Code
 
-[Link to Notebook](https://github.com/danplotkin/Transformer-based-Image-Captioning-From-Scratch-with-TensorFlow/blob/main/Image%20Captioning.ipynb)
+[Link to Notebook](https://github.com/danplotkin/Transformer-based-Image-Captioning-From-Scratch-with-TensorFlow/blob/main/Image_Captioner.ipynb)
