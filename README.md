@@ -6,4 +6,4 @@ In this project, I'm going to show you how to create your very own image caption
 
 # Source Code
 
-[Link to Notebook](https://github.com/danplotkin/Transformer-based-Image-Captioning-From-Scratch-with-TensorFlow/blob/main/Image_Captioner.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/Transformer-based-Image-Captioning-From-Scratch-with-TensorFlow/blob/main/Image_Captioner.ipynb)
